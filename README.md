@@ -1,7 +1,9 @@
 # 2021 CS Capstone Project 
 
 # Informational 
-* Authors: Juan Moncada, Danhong Li (Emma)
+* Authors: 
+* Danhong Li (Emma): Resources Page, Contest Page, Survey Page, Show_Users, Show_Survey, Database
+* Juan Moncada: Home Page, Kids Page. Contact Page
 * Course: Software Systems Capstone Project with Dr. Howard
 * Project: Students Invent to Prevent Violence
 
